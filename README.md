@@ -7,7 +7,7 @@
 
 ## Network Architecture
 
-<img src = "https://i.imgur.com/ulLoEig.png"> 
+<img src = "https://github.com/Ian0926/SufrinNet/blob/main/files/framwork.PNG"> 
 <hr />
 
 ## Datasets
