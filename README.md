@@ -14,12 +14,12 @@
 
 <img src = "https://github.com/Ian0926/SufrinNet/blob/main/files/results.PNG"> 
 
-We also share the visual results of **our SufrinNet** and **other compared methods** on four testing sets. You can download the enhanced images from [this link]()
+We also share the visual results of **our SufrinNet** and **other compared methods** on four testing sets. You can download the enhanced images from [this link](https://share.weiyun.com/Dnq7lKj7)
 <hr />
 
 ## Train and Evaluation
 * **Dataset and Pretrained Model**:
-The proposed **LLSIE dataset** can be downloaded from [this link]() and **pretrained model** can be found [here](https://github.com/Ian0926/SufrinNet/tree/main/pretrained)
+The proposed **LLSIE dataset** can be downloaded from [this link](https://share.weiyun.com/Q8nhiqnh) and **pretrained model** can be found [here](https://github.com/Ian0926/SufrinNet/tree/main/pretrained)
 
 * **Train**:
 `python train.py --data_source your_data_path`
