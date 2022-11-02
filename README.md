@@ -19,7 +19,7 @@ We also share the visual results of **our SufrinNet** and **other compared metho
 
 ## Train and Evaluation
 * **Dataset and Pretrained Model**:
-The proposed **LLSIE dataset** can be download from [this link]() and **pretrained model** can be found [here](https://github.com/Ian0926/SufrinNet/tree/main/pretrained)
+The proposed **LLSIE dataset** can be downloaded from [this link]() and **pretrained model** can be found [here](https://github.com/Ian0926/SufrinNet/tree/main/pretrained)
 
 * **Train**:
 `python train.py --data_source your_data_path`
