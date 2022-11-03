@@ -12,7 +12,7 @@ class TrainOptions():
         
         # ---------------------------------------- step 2/5 : data loading... ------------------------------------------------
         self.parser.add_argument("--data_source", type=str, default='', required=True, help="dataset root")
-        self.parser.add_argument("--train_bs_per_gpu", type=int, default=4, help="size of the training batches")
+        self.parser.add_argument("--train_bs_per_gpu", type=int, default=16, help="size of the training batches")
         self.parser.add_argument("--val_bs", type=int, default=1, help="size of the validating batches")
         self.parser.add_argument("--cropx", type=int, default=128, help="image size after cropping")
         self.parser.add_argument("--cropy", type=int, default=128, help="image size after cropping")
@@ -23,7 +23,7 @@ class TrainOptions():
         
         # ---------------------------------------- step 4/5 : requisites defining... ------------------------------------------------
         self.parser.add_argument("--lr", type=float, default=0.0002, help="learning rate")
-        self.parser.add_argument("--n_epochs", type=int, default=1000, help="number of epochs of training")
+        self.parser.add_argument("--n_epochs", type=int, default=2000, help="number of epochs of training")
         self.parser.add_argument("--scheduler", type=list, default=[500, 1000, 1500, 2000], help="learning rete scheduler")
         
         # ---------------------------------------- step 5/5 : training... ------------------------------------------------
