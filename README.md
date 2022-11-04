@@ -14,7 +14,7 @@
 
 <img src = "https://github.com/Ian0926/SufrinNet/blob/main/files/result.PNG"> 
 
-We also share the visual results of **our SufrinNet** and **other compared methods** on four testing sets. You can **download the enhanced images** from [this link](https://share.weiyun.com/Dnq7lKj7)
+**Download the enhanced images** from [this link](https://share.weiyun.com/Dnq7lKj7)
 <hr />
 
 ## Train and Evaluation
