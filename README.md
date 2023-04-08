@@ -34,8 +34,8 @@ The synthesized **LLSIE dataset** can be downloaded from [this link](https://sha
 ## Bibtex:
 If this repository is useful for you, please consider citing:
 ```
-@inproceedings{zheng2022sufrin,
-  title={SufrinNet: Toward Sufficient Cross-View Interaction for Stereo Image Enhancement in The Dark},
+@inproceedings{zheng2022dcinet,
+  title={Decoupled Cross-Scale Cross-View Interaction for Stereo Image Enhancement in The Dark},
   author={Huan Zheng, Zhao Zhang, Jicong Fan, Richang Hong, Yi Yang, and Shuicheng Yan},
   booktitle={arXiv},
   year={2022}
