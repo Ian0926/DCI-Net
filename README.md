@@ -12,7 +12,7 @@
 
 ## Results
 
-<img src = "https://github.com/Ian0926/SufrinNet/blob/main/files/result.PNG"> 
+<img src = "https://github.com/Ian0926/SufrinNet/blob/main/files/result1.PNG"> 
 
 **Download the enhanced images (ZeroDCE, iPASSRNet, ZeroDCE++, DVENet, NAFSSR, NAFSSR-F, SNR and our method)** from [this link](https://share.weiyun.com/Dnq7lKj7)
 <hr />
