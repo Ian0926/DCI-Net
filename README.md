@@ -14,7 +14,7 @@
 
 <img src = "https://github.com/Ian0926/SufrinNet/blob/main/files/result.PNG"> 
 
-**Download the enhanced images** from [this link](https://share.weiyun.com/Dnq7lKj7)
+**Download the enhanced images (ZeroDCE, iPASSRNet, ZeroDCE++, DVENet, NAFSSR, NAFSSR-F, SNR and our method)** from [this link](https://share.weiyun.com/Dnq7lKj7)
 <hr />
 
 ## Train and Evaluation
